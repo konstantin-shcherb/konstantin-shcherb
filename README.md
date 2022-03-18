@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @konstantin-shcherb
 - 👀 I’m interested in math, physics and programming
-- 🌱 I’m currently studying in school 179 in Moscow
+- 🌱 I’m currently studying at school 179 in Moscow
 - 📫 @konstantinshcheb in telegram and vk.
 
 <!---
